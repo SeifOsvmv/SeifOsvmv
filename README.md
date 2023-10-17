@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Seif Osama
 - 👀 I’m interested in Python Development
-- 🌱 I’m currently learning Flask, Javascript, CSS
+- 🌱 I’m currently learning Flask, HTML, Javascript, CSS
 - 📫 Feel free to reach me at Discord: agent47.
 
 <!---
